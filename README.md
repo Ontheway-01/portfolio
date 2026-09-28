@@ -10,7 +10,7 @@
 
 ## Selected research
 
-### 01. Smartphone heart-sound sensing · Signal analysis & mobile systems
+### 01. Smartphone heart-sound sensing
 
 **스마트폰 기반 심음 신호 분석과 모바일 시스템 개발을 수행했습니다.**
 
@@ -18,13 +18,13 @@ MATLAB을 활용한 데이터 분석·신호처리, 모바일 앱 구현, 센싱
 
 `Signal processing` `MATLAB` `Mobile development` `Prototyping` → **[연구 경험과 담당 역할](projects/cardio.md)**
 
-### 02. Mobile localization · Ongoing research
+### 02. Mobile localization
 
-**모바일 기기를 활용한 위치 추정 연구를 진행하고 있습니다.** 프로토타입 구현과 수집 데이터 분석을 담당하고 있습니다.
+**카메라와 모션 센서 데이터를 활용한 모바일 위치 추정을 연구합니다.** 측정 위치를 일관되게 파악하는 문제를 중심으로 프로토타입 구현과 데이터 분석을 다룹니다.
 
-### 03. Wearable data collection · Ongoing research
+### 03. Wearable data collection
 
-**모바일·웨어러블 기기를 활용한 데이터 수집 시스템을 개발하고 있습니다.** 기기 연결과 센서 데이터 수집을 위한 앱 기능을 담당하고 있습니다.
+**모바일·웨어러블 기기에서 센서 데이터를 함께 수집하는 시스템을 연구합니다.** 기기 간 연결, 시간 기준과 수집 상태를 고려한 데이터 기록을 다룹니다.
 
 <details>
 <summary>추가 탐색 연구 · Smartphone IMU</summary>
