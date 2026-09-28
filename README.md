@@ -4,7 +4,7 @@
 
 **센서 신호를 처리하고, 기기의 위치와 시간을 맞추며, 연구 아이디어를 동작하는 시스템으로 구현합니다.**
 
-중앙대학교 HCSLAB 석사과정으로 모바일·웨어러블 센싱을 연구하고 있습니다. 2027년 2월 졸업 예정입니다. MATLAB 기반 음향 신호처리, VIO 기반 위치 추정, 다중 기기 통신·수집 시스템을 개발하고 Fusion·Bambu Lab을 활용한 실물 프로토타입을 제작했습니다. 의료 환경에서 출발한 연구 경험을 바탕으로 센서·모바일·디바이스 R&D에 관심을 두고 있습니다.
+중앙대학교 HCSLAB 석사과정으로 모바일·웨어러블 센싱을 연구하고 있습니다. 2027년 2월 졸업 예정입니다. MATLAB 기반 음향 신호처리, 모바일 위치 추정과 웨어러블 데이터 수집을 연구하며 Fusion·Bambu Lab을 활용한 실물 프로토타입을 제작해 왔습니다. 의료 환경에서 출발한 연구 경험을 바탕으로 센서·모바일·디바이스 R&D에 관심을 두고 있습니다.
 
 [GitHub](https://github.com/Ontheway-01) · [HCSLAB](https://hcslab.cau.ac.kr/) · [Email](mailto:eunhwa813@cau.ac.kr)
 
@@ -18,21 +18,13 @@ MATLAB을 활용한 데이터 분석·신호처리, 모바일 앱 구현, 센싱
 
 `Signal processing` `MATLAB` `Mobile development` `Prototyping` → **[연구 경험과 담당 역할](projects/cardio.md)**
 
-### 02. CardioLoc · VIO-based localization
+### 02. Mobile localization · Ongoing research
 
-**VIO의 카메라 pose를 실제 측정 지점의 위치로 변환하고, 공통 좌표·시간 기준에서 오차를 평가했습니다.**
+**모바일 기기를 활용한 위치 추정 연구를 진행하고 있습니다.** 프로토타입 구현과 수집 데이터 분석을 담당하고 있습니다.
 
-카메라–마이크 외부 파라미터, 세 랜드마크로 정의한 신체 좌표계, 기기별 시간축 정렬, 정적 위치 오차·반복성 평가를 다룹니다. ARKit·ARCore를 사용한 구현과 OpenVINS 모바일 연동 프로토타입을 구분해 설명합니다.
+### 03. Wearable data collection · Ongoing research
 
-`VIO` `Coordinate transforms` `Python` `ARKit / ARCore` → **[좌표 변환과 평가 설계](projects/cardioloc.md)**
-
-### 03. PCWP · Multi-device data collection
-
-**Ring–Watch–Phone을 연결하고, 명령 응답·센서 수집·전송·저장을 사용 절차에 맞춰 구성했습니다.**
-
-ACK를 기다리는 직렬 명령 큐, 워치의 수집 후 일괄 전송, 바이너리 샘플 파싱과 기기별 상태 관리를 다룹니다. 시간 동기화는 현재 수집 경로와 별도 실험 구현의 범위를 나누어 설명합니다.
-
-`BLE` `Kotlin coroutines` `Binary protocol` `State management` → **[프로토콜과 수집 흐름](projects/pcwp.md)**
+**모바일·웨어러블 기기를 활용한 데이터 수집 시스템을 개발하고 있습니다.** 기기 연결과 센서 데이터 수집을 위한 앱 기능을 담당하고 있습니다.
 
 <details>
 <summary>추가 탐색 연구 · Smartphone IMU</summary>
