@@ -10,13 +10,13 @@
 
 ## Selected research
 
-### 01. Mobile audio sensing · Single-microphone signal processing
+### 01. Smartphone heart-sound sensing · Signal analysis & mobile systems
 
-**단일 마이크 음향 신호의 잡음 억제를 위한 필터를 설계·튜닝하고 실시간 모바일 앱에 적용했습니다.**
+**스마트폰 기반 심음 신호 분석과 모바일 시스템 개발을 수행했습니다.**
 
-MATLAB 기반 파형·주파수 분석과 필터 구현을 담당했습니다. Fusion·Bambu Lab으로 수집 액세서리를 제작하고, 모바일 오디오 처리와 워치 피드백을 연결했습니다.
+MATLAB을 활용한 데이터 분석·신호처리, 모바일 앱 구현, 센싱 프로토타입 제작을 담당했습니다.
 
-`Single-microphone sensing` `Audio DSP` `MATLAB` `Fusion` `Kotlin` → **[신호처리와 모바일 시스템 구현](projects/cardio.md)**
+`Signal processing` `MATLAB` `Mobile development` `Prototyping` → **[연구 경험과 담당 역할](projects/cardio.md)**
 
 ### 02. CardioLoc · VIO-based localization
 
