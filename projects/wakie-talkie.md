@@ -1,6 +1,6 @@
 # Wakie-Talkie · Voice conversation pipeline
 
-[← 포트폴리오](../README.md) · [iOS 포크](https://github.com/Ontheway-01/Wakie-Talkie-frontend) · [iOS 원본](https://github.com/Wakie-Talkie/Wakie-Talkie-frontend) · [Backend 원본](https://github.com/Wakie-Talkie/Wakie-Talkie-Backend)
+[← 포트폴리오](../README.md) · [프로젝트 허브](https://github.com/Ontheway-01/Wakie-Talkie) · [iOS 원본](https://github.com/Wakie-Talkie/Wakie-Talkie-frontend) · [Backend 원본](https://github.com/Wakie-Talkie/Wakie-Talkie-Backend)
 
 **iOS의 녹음·재생과 Django 서버의 STT → 대화 생성 → TTS를 연결하고, 통화 결과를 녹음·텍스트·단어장으로 남기는 애플리케이션을 개발했습니다.**
 
